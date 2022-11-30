@@ -22,7 +22,7 @@ On windows command line, I ran the following functions to import my files in a d
 
 And ran the following command to read the java file:
 ```
->hadoop jar C:/weatherproject.jar /input /output
+>hadoop jar C:/weatherproject.java /input /output
 ```
 
 
